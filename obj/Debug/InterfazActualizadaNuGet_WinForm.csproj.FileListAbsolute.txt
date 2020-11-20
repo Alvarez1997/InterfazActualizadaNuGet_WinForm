@@ -1,0 +1,16 @@
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\bin\Debug\InterfazActualizadaNuGet_WinForm.exe.config
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\bin\Debug\InterfazActualizadaNuGet_WinForm.exe
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\bin\Debug\InterfazActualizadaNuGet_WinForm.pdb
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.csprojAssemblyReference.cache
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.Properties.Resources.resources
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.csproj.GenerateResource.cache
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.csproj.CopyComplete
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.exe
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.pdb
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.MenuPrincipal.resources
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.Formularios.Clientes.resources
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.Formularios.Insertar.resources
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.Formularios.Pedidos.resources
+C:\Users\Alvar\source\repos\InterfazActualizadaNuGet_WinForm\obj\Debug\InterfazActualizadaNuGet_WinForm.Formularios.Actualizar.resources
